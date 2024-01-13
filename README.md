@@ -1,10 +1,10 @@
-# 基于SSM的订餐管理系统
+# 基于SSM的订餐管理系统5
 
 ## 获取方式
 
-扫描下方，回复关键词  ： “**订餐5**”   
+下方扫一扫关注后，后台回复关键词：**订餐**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,33 +35,25 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248074.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206102248074.jpg)
 
 ### 4.2 用户模块
 
-![前端-菜品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248049.jpg)
+![前端-菜品](https://www.codeshop.fun/Typora-Images/202206102248049.jpg)
 
-![用户-加入购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248651.jpg)
+![用户-加入购物车](https://www.codeshop.fun/Typora-Images/202206102248651.jpg)
 
-![用户-订单记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248263.jpg)
+![用户-订单记录](https://www.codeshop.fun/Typora-Images/202206102248263.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-菜品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248750.jpg)
+![管理员-菜品管理](https://www.codeshop.fun/Typora-Images/202206102248750.jpg)
 
-![管理员-添加菜品](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248508.jpg)
+![管理员-添加菜品](https://www.codeshop.fun/Typora-Images/202206102248508.jpg)
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248861.jpg)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202206102248861.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248484.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206102248484.jpg)
 
-![管理员-种类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206102248560.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： “**订餐5**”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-种类管理](https://www.codeshop.fun/Typora-Images/202206102248560.jpg)
 
